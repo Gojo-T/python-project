@@ -8,3 +8,7 @@ I learned class or methods it give mi some error at first like indentation and m
 so i can go to that error and fix it i run the application so it will not give some error
 ## conclusion
 This project helpful to mi so i can understand python programing also class and methods.
+
+
+## 📌 **Author:** _**Tushar Govind Khairnar**_ 
+## 📌 **GitHub Repository:** [My GitHub Profile](https://github.com/Gojo-T)
